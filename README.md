@@ -21,7 +21,7 @@ Tests the optional "ignore garbage" flag. Similar to the "pairs" directory, but 
 ## Installation
 
 ```shell
-npm install base-65536
+npm install base65536-test
 ```
 
 ## License
