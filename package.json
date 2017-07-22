@@ -1,6 +1,6 @@
 {
   "name": "base65536-test",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Language-agnostic test case files for the Base65536 encoding",
   "keywords": [
     "base65536",
