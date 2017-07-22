@@ -1,5 +1,8 @@
+root = true
+
 [*]
 insert_final_newline = true
 
 [*.txt]
-insert_final_newline = false
+end_of_line = lf
+insert_final_newline = unset

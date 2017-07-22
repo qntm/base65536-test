@@ -18,6 +18,10 @@ A correct Base65536 implementation should fail to decode these text files.
 
 Tests the optional "ignore garbage" flag. Similar to the "pairs" directory, but only decoding is expected to return accurate results here, not encoding.
 
+### `data/wrap`
+
+Tests the optional "wrap" option. Similar to the "pairs" directory, but data is divided up by wrap length to be used when encoding. Decoding should use the "ignore garbage" flag.
+
 ## Installation
 
 ```shell
