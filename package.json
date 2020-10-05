@@ -14,5 +14,11 @@
     "test"
   ],
   "author": "qntm",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "data"
+  ],
+  "scripts": {
+    "postpublish": "npm version patch && git push"
+  }
 }
