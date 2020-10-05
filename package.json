@@ -1,6 +1,6 @@
 {
   "name": "base65536-test",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "Language-agnostic test case files for the Base65536 encoding",
   "homepage": "https://github.com/qntm/base65536-test",
   "repository": {
